@@ -18,7 +18,7 @@ pipeline {
 
             steps { 
 
-                git 'https://github.com/Dhananjayvd1/docker.git'
+                git 'https://github.com/Dhananjayvd1/docker-website.git'
 
             }
 
